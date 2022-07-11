@@ -36,7 +36,7 @@ public class HomeController {
 
 		//하하하하ㅏㅎ하
 		//asdasdasdasd
-		
+		//test ggggggg
 		return "home";
 	}
 	
