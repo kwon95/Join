@@ -36,6 +36,10 @@ public class HomeController {
 
 		//하하하하ㅏㅎ하
 		//asdasdasdasd
+
+		//  1111111
+
+	   
 		
 		return "home";
 	}
